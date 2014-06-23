@@ -21,9 +21,9 @@ My Shiny App takes several years of daily natural gas prices from the [EIA websi
 APP Functionality:
 
 Drop Down Menu- you can choose the number of historgram bins
-1st Box Check-  allows for the user to place a line graph over the histogram 
-2nd Box Check- allows for the user to show the daily distribution of prices at the bottom of the graph
-
+1st Box Check- allows for the user to show the daily distribution of prices at the bottom of the graph 
+2nd Box Check- allows for the user to place a line graph over the histogram 
+Bandwidth Slider- Can adjust the smoothness of line graph
 
 ### Slidify Presentation
 
